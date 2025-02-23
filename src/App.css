@@ -41,10 +41,7 @@
 .typing {
   color: blue;
   background-color: yellow;
-  font-size: 80px;
-  padding-right: 5px;
   white-space: nowrap;
-  overflow: hidden;
   animation: typing 4s steps(30) 1s 1 normal both, blinkCaret 0.75s step-end infinite;
 }
 
